@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: dd33accffed5ea64abae8f1cf46705f6
+  - enabled: 1
+    path: Assets/Scenes/JogoAst.unity
+    guid: a9a4830779964b2419e815a7e7a52331
+  - enabled: 1
+    path: Assets/Scenes/Vitoria.unity
+    guid: 652a5697e1fae2746a158ba6bffb16ec
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 52c3497676931fa42a7e109c44023956
+  - enabled: 1
+    path: Assets/Scenes/Configur.unity
+    guid: 1bc146abc988e464e990b7d00a568ba3
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
